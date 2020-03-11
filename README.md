@@ -1,6 +1,6 @@
 # sqlite3_editAndRead
 
-
+操作db后缀的手机数据库sqlite
 
 
 
